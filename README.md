@@ -10,55 +10,40 @@ Our mission is to help brands grow through clean code, powerful performance, and
 
 Codepeek Studio provides end-to-end web development and digital product services, including:
 
-- 🔹 Custom website design & development
-- 🔹 Full-stack web applications
-- 🔹 SaaS & startup product development
-- 🔹 Business dashboards & admin panels
-- 🔹 API development & backend systems
-- 🔹 UI/UX design & front-end engineering
-- 🔹 Performance optimization & SEO-ready builds
-- 🔹 Maintenance & long-term product support
+- Custom website design and development  
+- Full-stack web application development  
+- SaaS product development for startups and businesses  
+- Business dashboards and admin panels  
+- API development and backend engineering  
+- UI/UX design and front-end development  
+- Performance optimization and SEO-ready builds  
+- Ongoing product maintenance and support  
 
 ---
 
 ## 🛠 Technology Expertise
 
-We build modern, scalable solutions using technologies such as:
+We build modern, scalable solutions using:
 
-- **Frontend:** React.js, Next.js, JavaScript, TypeScript
-- **Styling:** Tailwind CSS, CSS3, UI frameworks
-- **Backend:** Node.js, Express, REST APIs
-- **Databases:** MongoDB, PostgreSQL
-- **Other Tools:** GitHub, CI/CD, Cloud & DevOps
+- **Frontend:** React.js, Next.js, JavaScript, TypeScript  
+- **Styling:** Tailwind CSS, CSS3, UI component systems  
+- **Backend:** Node.js, Express, REST APIs  
+- **Databases:** MongoDB, PostgreSQL  
+- **Tools & Workflow:** GitHub, CI/CD, Cloud & DevOps practices  
 
 ---
 
 ## 🚀 Why Choose Codepeek Studio?
 
-- ✔ Clean, scalable & maintainable code
-- ✔ Enterprise-level development standards
-- ✔ Strong focus on UI/UX & performance
-- ✔ Long-term reliability & support
-- ✔ Transparent communication & delivery
+- Clean, scalable, and maintainable code  
+- Enterprise-grade engineering standards  
+- Strong focus on UI/UX and user psychology  
+- Reliable delivery and long-term product support  
+- Transparent communication and structured workflows  
 
 ---
 
-## 📈 SEO-Friendly Keywords
-
-Codepeek Studio web development  
-modern web development company  
-full stack web development services  
-React and Next.js development agency  
-Node.js backend development  
-Tailwind CSS UI development  
-business website development company  
-SaaS product development agency  
-custom web application development  
-professional web design services  
-
----
-
-## 🔧 Development Setup (Optional — if repo includes code)
+## 🔧 Local Development (If this repo includes code)
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/CodepeekStudio.git
