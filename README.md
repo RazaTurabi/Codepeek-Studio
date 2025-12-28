@@ -1,4 +1,4 @@
-# Codepeek Studio — Modern Web Development Company
+# Codepeek Studio — Modern Web & App Development Studio in Thane
 
 Codepeek Studio is a forward-thinking web development company focused on building high-performance, scalable, and user-centric digital experiences. We design and develop modern websites, SaaS platforms, business dashboards, and full-stack applications using the latest technologies and industry best practices.
 
